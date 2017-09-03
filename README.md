@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hi Everyone
+
+Dinesh here! I am working on Web of things.
+
